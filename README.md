@@ -14,7 +14,8 @@ const {values,errors,handleSubmit,hanldeBlur,touched ...etc.}=useFormik({
   /* after submit function here */
   }
 })
-![Screen Shot 2022-08-11 at 11 48 35](https://user-images.githubusercontent.com/59451476/184080211-559e4bef-422c-4462-9f8d-c4a3e46e075c.png)
+![Screen Shot 2022-08-11 at 12 05 09](https://user-images.githubusercontent.com/59451476/184082153-42430c2e-e173-4479-8166-00bf27153cd1.png)
+
 
 //mobile view
 
